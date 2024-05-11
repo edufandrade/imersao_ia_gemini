@@ -16,8 +16,8 @@ O projeto foi desenvolvido em Python no ambiente Colab da Google, com integraç�
 
 ## 4-) Arquivos:
 
-1-) ComaBemIA.ipynb : código fonte
-2-) README.md       : esta documentação
+ComaBemIA.ipynb : código fonte
+README.md       : esta documentação
 
 ## 5-) Variáveis relativas aos Dados do Usuário
 
