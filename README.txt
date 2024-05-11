@@ -4,7 +4,7 @@ Projeto de Imersão de IA - ComaBemAI
 1-) Descrição do Projeto:
 
 Trata-se de um projeto desenvolvido por mim durante a Imersão de IA sobre o Gemini, oferecido pela parceria da
-Google, Alura e da FIAP. O ComaBemAI, é um software que interage com um usuário num contexto discontraído e
+Google, Alura e da FIAP. O ComaBemAI, é um software que interage com um usuário num contexto descontraído e
 informativo, captando informações do cliente (dados do usuário) com o objetivo de retornar um plano alimentar
 personalizado.
 
