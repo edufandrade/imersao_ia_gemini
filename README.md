@@ -12,7 +12,8 @@ Por meio de uma interface simples, amigável e informativa, captar dados pessoai
 
 ## 3-) Ambiente e linguagem de programação:
 
-O projeto foi desenvolvido em Python no ambiente Colab da Google, com integração de bibliotecas de ia gemini da Google.
+O projeto foi desenvolvido na linguagem Python, no ambiente Jupyter Notebook, com integração de bibliotecas de ia gemini da Google, na plataforma
+de nuvem Colab da Google.
 
 ## 4-) Arquivos:
 
