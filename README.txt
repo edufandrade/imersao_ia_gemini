@@ -3,15 +3,21 @@ Projeto de Imersão de IA - ComaBemAI
 
 1-) Descrição do Projeto:
 
-Trata-se de um projeto desenvolvido por mim durante a Imersão de IA sobre o Gemini, oferecido pela parceria da Google, Alura e da FIAP. O ComaBemAI, é um software que interage com um usuário num contexto discontraído e informativo, captando informações do cliente (dados do usuário) com o objetivo de retornar um plano alimentar personalizado.
+Trata-se de um projeto desenvolvido por mim durante a Imersão de IA sobre o Gemini, oferecido pela parceria da
+Google, Alura e da FIAP. O ComaBemAI, é um software que interage com um usuário num contexto discontraído e
+informativo, captando informações do cliente (dados do usuário) com o objetivo de retornar um plano alimentar
+personalizado.
 
 2-) Objetivo detalhado do Projeto:
 
-Por meio de uma interface simples, amigável e informativa, captar dados pessoais, biológicos e preferências do usuário, processar esses dados através de algumas fórmulas e conceitos de nutrição e nutrologia para construir um "prompt" para a IA (inteligência artificial) Gemini gerar um Plano Alimentar Personalizado ao cliente.
+Por meio de uma interface simples, amigável e informativa, captar dados pessoais, biológicos e preferências do
+usuário, processar esses dados através de algumas fórmulas e conceitos de nutrição e nutrologia para construir
+um "prompt" para a IA (inteligência artificial) Gemini gerar um Plano Alimentar Personalizado ao cliente.
 
 3-) Ambiente e linguagem de programação:
 
-O projeto foi desenvolvido em Python no ambiente Colab da Google, com integração de bibliotecas de ia gemini da Google.
+O projeto foi desenvolvido em Python no ambiente Colab da Google, com integração de bibliotecas de ia gemini da
+Google.
 
 4-) Arquivos:
 
@@ -41,7 +47,7 @@ README.md       : esta documentação
     r-) lista_alimentos_alergenicos_usuario lista de alimentos alergênicos ao usuário
     t-) refeicoes_semana_usuario            configuração das refeições de segunda a sexta-feira
     u-) refeicoes_finaldesemana_usuario     configuração das refeições no sábado e domingo
-    v-) qtd_dinheiro_plano_usuario          valor aproximado disponível para investir na lista de comprar do plano
+    v-) qtd_dinheiro_plano_usuario          valor aproximado disponível para investir na lista de compras do plano
 
 6-) Fórmulas Utilizadas (*):
 
