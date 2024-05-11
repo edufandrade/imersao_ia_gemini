@@ -21,8 +21,9 @@ ia gemini da Google, na plataforma de nuvem Colab da Google.
 
 4-) Arquivos:
 
-ComaBemIA.ipynb : código fonte
-README.md       : esta documentação
+ComaBemIA.ipynb              : código fonte ; 
+ComaBemIA_naocomentado.ipynb : código fonte não comentado ;
+README.md                    : esta documentação
 
 5-) Variáveis relativas aos Dados do Usuário
 
@@ -111,7 +112,7 @@ i-) Quantidade de fibras no plano alimentar:
     e com parametrizações diferentes de temperatura, ponto K, ponto P. O uso da busca de fontes internas , como
     documentos contendo listas de alimentos com dados mais fidedignos e controlados poderia ser usado futuramente e
     a apresentação dos dados realizada na forma de planilhas também com possibilidade de exportação em formato pdf ou
-    xls.
+    xls. Proteção na entrada dos dados.
 
 
 
