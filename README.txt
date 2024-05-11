@@ -30,7 +30,7 @@ README.md       : esta documentação
     peso_usuario :                      peso corpóreo (em kg)
     altura_usuario :                    altura (em metros)
     idade_usuario :                     idade atual (em anos)
-    genero_usuario :                    gênero biológico (M para mulher e H para homem)
+    genero_usuario :                    gênero biológico (M para masculino e F para feminino)
     multiplicador_atividade_usuario     pontuação do nível de atividade física conforme tabela apresentada
     imc_usuario                         IMC (índice de massa corporal) *
     classificacao_imc_usuario           classificação do IMC
@@ -96,8 +96,8 @@ g-) Quantidade de calorias referente a lipídeos:
 
 i-) Quantidade de fibras no plano alimentar:
 
-    Se homem : qtd_gramas_fibras_plano_usuario = 34 (gramas de fibras)
-    Se mulher: qtd_gramas_fibras_plano_usuario = 25 (gramas de fibras)
+    Se masculino : qtd_gramas_fibras_plano_usuario = 34 (gramas de fibras)
+    Se feminino  : qtd_gramas_fibras_plano_usuario = 25 (gramas de fibras)
 
 
 
