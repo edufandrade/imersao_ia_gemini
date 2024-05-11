@@ -23,7 +23,7 @@ ia gemini da Google, na plataforma de nuvem Colab da Google.
 
 ComaBemIA.ipynb              : código fonte ; 
 ComaBemIA_naocomentado.ipynb : código fonte não comentado ;
-README.md                    : esta documentação
+README.txt                   : esta documentação
 
 5-) Variáveis relativas aos Dados do Usuário
 
