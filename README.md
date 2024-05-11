@@ -97,6 +97,22 @@ i-) Quantidade de fibras no plano alimentar:
     Se masculino : qtd_gramas_fibras_plano_usuario = 34 (gramas de fibras)
     Se feminino  : qtd_gramas_fibras_plano_usuario = 25 (gramas de fibras)
 
+## 7-) Limitações atuais (*):
+
+    A IA ainda apresenta alucinações na apresentação final do conteúdo, como erros de soma das calorias dos alimentos,
+    alimentos não permitidos que as vezes são apresentados, variações na formatação dos dados e algumas combinações
+    bizarras de alimentos.
+
+## 8-) Melhorias futuras (*):
+
+    Nas versões posteriores, o prompt deve ser apurado e testado por mais tempo nos diferentes modelos do gemini, 
+    e com parametrizações diferentes de temperatura, ponto K, ponto P. O uso da busca de fontes internas , como
+    documentos contendo listas de alimentos com dados mais fidedignos e controlados poderia ser usado futuramente e
+    a apresentação dos dados realizada na forma de planilhas também com possibilidade de exportação em formato pdf ou
+    xls.
+
+
+
 
 
 
