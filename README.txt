@@ -51,9 +51,10 @@ README.md       : esta documentação
 
 6-) Fórmulas Utilizadas (*):
 
-a-) Para cálculo da TMB (Taxa Metabólica Basal]): 
+a-) Para cálculo da TMB (Taxa Metabólica Basal): 
 
-a.1) Fórmula de Harris Benedict 
+    Fórmula de Harris Benedict:
+
     Para gênero biológico masculino: TMB = 66,5 + (13,75 x peso em kg) + (5 x altura em cm) - (6,75 x idade em anos)
     Para gênero biológico feminino:  TMB = 655,1 + (9,563 x peso em kg) + (1,85 x altura em cm) - (4,676 x idade em anos)
 
