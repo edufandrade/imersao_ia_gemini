@@ -15,8 +15,8 @@ O projeto foi desenvolvido em Python no ambiente Colab da Google, com integraç�
 
 ## 4-) Arquivos:
 
-ComaBemIA.ipynb : código fonte
-README.md       : esta documentação
+1-) ComaBemIA.ipynb : código fonte
+2-) README.md       : esta documentação
 
 ## 5-) Variáveis relativas aos Dados do Usuário
 
@@ -53,9 +53,11 @@ a-) Para cálculo da TMB (Taxa Metabólica Basal]):
     Para gênero biológico feminino:  TMB = 655,1 + (9,563 x peso em kg) + (1,85 x altura em cm) - (4,676 x idade em anos)
 
 b-) Para cálculo do IMC (Índice de Massa Corpórea):
+
     IMC = peso (em kg) / (altura (em metros) x altura (em metros))
 
 c-) GET (Gasto Energético Total):
+
     GET = TBM x fator multiplicador de atividade física ( ... a variável multiplicador_atividade_usuario)
 
 d-) Quantidade de calorias do plano alimentar do usuário
