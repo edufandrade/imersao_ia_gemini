@@ -1,24 +1,24 @@
 # imersao_ia_gemini
-Projeto de Imersão de IA - ComaBemAI
+## **Projeto de Imersão de IA - ComaBemAI**
 
-1-) Descrição do Projeto:
+## 1-) Descrição do Projeto:
 
 Trata-se de um projeto desenvolvido por mim durante a Imersão de IA sobre o Gemini, oferecido pela parceria da Google, Alura e da FIAP. O ComaBemAI, é um software que interage com um usuário num contexto discontraído e informativo, captando informações do cliente (dados do usuário) com o objetivo de retornar um plano alimentar personalizado.
 
-2-) Objetivo detalhado do Projeto:
+## 2-) Objetivo detalhado do Projeto:
 
 Por meio de uma interface simples, amigável e informativa, captar dados pessoais, biológicos e preferências do usuário, processar esses dados através de algumas fórmulas e conceitos de nutrição e nutrologia para construir um "prompt" para a IA (inteligência artificial) Gemini gerar um Plano Alimentar Personalizado ao cliente.
 
-3-) Ambiente e linguagem de programação:
+## 3-) Ambiente e linguagem de programação:
 
 O projeto foi desenvolvido em Python no ambiente Colab da Google, com integração de bibliotecas de ia gemini da Google.
 
-4-) Arquivos:
+## 4-) Arquivos:
 
 ComaBemIA.ipynb : código fonte
 README.md       : esta documentação
 
-5-) Variáveis relativas aos Dados do Usuário
+## 5-) Variáveis relativas aos Dados do Usuário
 
     a-) nm_usuario :                        nome do usuário / como o usuário gostaria de ser chamado
     b-) uf_usuario :                        unidade federativa em que o usuário reside
@@ -43,11 +43,12 @@ README.md       : esta documentação
     u-) refeicoes_finaldesemana_usuario     configuração das refeições no sábado e domingo
     v-) qtd_dinheiro_plano_usuario          valor aproximado disponível para investir na lista de comprar do plano
 
-6-) Fórmulas Utilizadas (*):
+## 6-) Fórmulas Utilizadas (*):
 
 a-) Para cálculo da TMB (Taxa Metabólica Basal]): 
 
-a.1) Fórmula de Harris Benedict 
+    Fórmula de Harris Benedict 
+    
     Para gênero biológico masculino: TMB = 66,5 + (13,75 x peso em kg) + (5 x altura em cm) - (6,75 x idade em anos)
     Para gênero biológico feminino:  TMB = 655,1 + (9,563 x peso em kg) + (1,85 x altura em cm) - (4,676 x idade em anos)
 
