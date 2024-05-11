@@ -26,28 +26,26 @@ README.md       : esta documentação
 
 5-) Variáveis relativas aos Dados do Usuário
 
-    a-) nm_usuario :                        nome do usuário / como o usuário gostaria de ser chamado
-    b-) uf_usuario :                        unidade federativa em que o usuário reside
-    c-) peso_usuario :                      peso corpóreo (em kg)
-    d-) altura_usuario :                    altura (em metros)
-    e-) idade_usuario :                     idade atual (em anos)
-    f-) genero_usuario :                    gênero biológico (M para mulher e H para homem)
-    g-) multiplicador_atividade_usuario     pontuação do nível de atividade física conforme tabela apresentada
-    h-) imc_usuario                         IMC (índice de massa corporal) *
-    i-) classificacao_imc_usuario           classificação do IMC
-    j-) tmb_usuario                         TMB (taxa metabólica basal *)
-    k-) get_usuario                         GET (gasto energético total *)
-    l-) tp_plano_usuario                    objetivo do usuário (ganhar ou perder peso)
-    m-) qt_kcal_plano_usuario               quantidade de calorias do plano alimentar do usuário *
-    n-) qtd_calorias_proteina               quantidade de calorias referente a proteínas *
-    o-) qtd_calorias_carboidrato            quantidade de calorias referente a carboidrato *
-    p-) qtd_calorias_lipideos               quantidade de calorias referente a lipídeos *
-    q-) qtd_gramas_fibras_plano_usuario     quantidade de fibras no plano alimentar   
-    r-) lista_alimentos_recusados_usuario   lista de alimentos indesejados pelo usuário
-    r-) lista_alimentos_alergenicos_usuario lista de alimentos alergênicos ao usuário
-    t-) refeicoes_semana_usuario            configuração das refeições de segunda a sexta-feira
-    u-) refeicoes_finaldesemana_usuario     configuração das refeições no sábado e domingo
-    v-) qtd_dinheiro_plano_usuario          valor aproximado disponível para investir na lista de compras do plano
+    nm_usuario :                        nome do usuário / como o usuário gostaria de ser chamado
+    peso_usuario :                      peso corpóreo (em kg)
+    altura_usuario :                    altura (em metros)
+    idade_usuario :                     idade atual (em anos)
+    genero_usuario :                    gênero biológico (M para mulher e H para homem)
+    multiplicador_atividade_usuario     pontuação do nível de atividade física conforme tabela apresentada
+    imc_usuario                         IMC (índice de massa corporal) *
+    classificacao_imc_usuario           classificação do IMC
+    tmb_usuario                         TMB (taxa metabólica basal *)
+    get_usuario                         GET (gasto energético total *)
+    tp_plano_usuario                    objetivo do usuário (ganhar ou perder peso)
+    qt_kcal_plano_usuario               quantidade de calorias do plano alimentar do usuário *
+    qtd_calorias_proteina               quantidade de calorias referente a proteínas *
+    qtd_calorias_carboidrato            quantidade de calorias referente a carboidrato *
+    qtd_calorias_lipideos               quantidade de calorias referente a lipídeos *
+    qtd_gramas_fibras_plano_usuario     quantidade de fibras no plano alimentar   
+    lista_alimentos_recusados_usuario   lista de alimentos indesejados pelo usuário
+    lista_alimentos_alergenicos_usuario lista de alimentos alergênicos ao usuário
+    refeicoes_semana_usuario            configuração das refeições de segunda a sexta-feira
+    refeicoes_finaldesemana_usuario     configuração das refeições no sábado e domingo
 
 6-) Fórmulas Utilizadas (*):
 
